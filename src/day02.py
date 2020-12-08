@@ -8,8 +8,6 @@ file.close()
 
 part2 = True
 
-print(data)
-
 r  = ""
 if part2:
 	keypad = [ "       ", "   1   ", "  234  ", " 56789 ", "  ABC  ", "   D   ", "       " ]
